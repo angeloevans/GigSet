@@ -11,7 +11,7 @@ const Navbar = () => {
             to="/" 
             className="text-2xl font-extrabold text-indigo-500 hover:text-indigo-400"
           >
-            Song Playlist
+            GigSet
           </Link>
         </div>
 
