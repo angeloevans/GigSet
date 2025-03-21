@@ -1,0 +1,34 @@
+.song-list {
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .song-header {
+    display: flex;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .song-title {
+    flex: 2;
+    text-align: left;
+  }
+  
+  .song-duration {
+    flex: 1;
+    text-align: left;
+  }
+  
+  .song-item {
+    display: flex;
+    margin-bottom: 10px;
+  }
+  
+  .song-item .song-title {
+    flex: 2;
+  }
+  
+  .song-item .song-duration {
+    flex: 1;
+  }
+  
