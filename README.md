@@ -6,7 +6,7 @@
 ![Local Storage](https://img.shields.io/badge/Local%20Storage-YES-yellow?style=flat-square)
 
 
-Welcome to the **Song Playlist App!** 
+Welcome to the **GigSet App!** 
 <br>
 This app allows musicians and bands to create, manage, and export their personalized playlists. 
 <br>
