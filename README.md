@@ -1,4 +1,4 @@
-# Song Playlist App 🎶
+# GigSet App 🎶
 
 ![React](https://img.shields.io/badge/React-18.x-61DAFB?style=flat-square&logo=react&logoColor=black) 
 ![jsPDF](https://img.shields.io/badge/jsPDF-v2.x-4B8BF5?style=flat-square&logo=jsPDF&logoColor=white) 
