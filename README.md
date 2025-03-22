@@ -66,6 +66,13 @@ It uses `Local Storage` to persist data and ensures that your playlist is saved 
 
 4. **Persistent Storage:**
    - The playlist is saved in your browser's `local storage`, ensuring that your data persists even if you refresh the page or reopen the app.
+  
+### Future Improvements
+- **Mobile-Friendly UI:** Currently, the user interface is optimized for desktop use, but a mobile-responsive design will be added to ensure the application functions smoothly on all devices.
+- <br>This will improve the overall user experience on mobile phones and tablets by adapting the layout and controls for smaller screen sizes.
+
+- **Cross-Browser Compatibility:** Ensuring the application performs optimally across all major browsers 
+<br>(Chrome, Firefox, Safari, Edge) will be prioritized.
 
 ### Acknowledgments 💡
 
